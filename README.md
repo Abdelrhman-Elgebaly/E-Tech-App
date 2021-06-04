@@ -1,7 +1,8 @@
 # E-Tech-
 
-# E-Tech-E-Commerce App using Provider State Mangment App
+# E-Commerce App using Provider State Mangment App
 
+![one](https://user-images.githubusercontent.com/61941216/120781337-4791ca80-c529-11eb-99ef-c876663c0e5c.jpg)
 ![2](https://user-images.githubusercontent.com/61941216/120780478-75c2da80-c528-11eb-8c1b-1d64f6b197fa.jpg)
 ![4](https://user-images.githubusercontent.com/61941216/120780583-8f642200-c528-11eb-8a57-0cc460de4256.jpg)
 ![5](https://user-images.githubusercontent.com/61941216/120780624-955a0300-c528-11eb-8246-c4c92a0e1666.jpg)
