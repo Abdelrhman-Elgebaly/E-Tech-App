@@ -1,6 +1,6 @@
-# E-Tech-
+# E-Tech App
 
- E-Commerce App using Provider State Mangment
+ E-Commerce Flutter App using Provider State Mangment
 
 ![one](https://user-images.githubusercontent.com/61941216/120781337-4791ca80-c529-11eb-99ef-c876663c0e5c.jpg)
 ![2](https://user-images.githubusercontent.com/61941216/120780478-75c2da80-c528-11eb-8c1b-1d64f6b197fa.jpg)
